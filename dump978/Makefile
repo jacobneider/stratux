@@ -1,3 +1,4 @@
+CC = aarch64-linux-gnu-gcc
 CFLAGS+=-O2 -Wall -Werror -Ifec
 LDFLAGS=
 LIBS=-lm
